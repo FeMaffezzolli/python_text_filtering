@@ -11,4 +11,7 @@ After that we use the 'Counter' library to count the most commom words in our li
 ![graphic](zipfslaw.png)
 
 ## Dependencies
-collections
+collections <br>
+math <br>
+matplotlib <br>
+numpy
