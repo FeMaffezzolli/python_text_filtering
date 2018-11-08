@@ -6,5 +6,9 @@ This code is concerned about importing a text (.txt) file, breaking the text int
 <br><br>
 After that we use the 'Counter' library to count the most commom words in our list.
 
+## How does it look like?
+
+![graphic](zipfslaw.png)
+
 ## Dependencies
 collections
